@@ -48,7 +48,7 @@ h2 {
   margin: 0px 30px;
   width: 2.5px;
   height: 250px;
-  background-color: #0abab5;
+  background-color: #14b8a6;
 }
 .biography {
   width: 315px;
@@ -85,8 +85,8 @@ a:visited {
   }
   .biography {
     text-align: center;
-    border-top: 2px solid #0abab5;
-    border-bottom: 2px solid #0abab5;
+    border-top: 2px solid #14b8a6;
+    border-bottom: 2px solid #14b8a6;
   }
   .icons {
     display: flex;
